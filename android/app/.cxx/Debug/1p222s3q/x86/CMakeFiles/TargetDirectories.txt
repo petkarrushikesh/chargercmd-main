@@ -1,0 +1,2 @@
+/Users/eslmarketing/Downloads/flutter-ble-master/android/app/.cxx/Debug/1p222s3q/x86/CMakeFiles/edit_cache.dir
+/Users/eslmarketing/Downloads/flutter-ble-master/android/app/.cxx/Debug/1p222s3q/x86/CMakeFiles/rebuild_cache.dir

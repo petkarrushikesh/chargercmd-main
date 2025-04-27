@@ -1,0 +1,2 @@
+/Users/eslmarketing/Downloads/chargercmd/android/app/.cxx/Debug/b692372m/x86_64/CMakeFiles/edit_cache.dir
+/Users/eslmarketing/Downloads/chargercmd/android/app/.cxx/Debug/b692372m/x86_64/CMakeFiles/rebuild_cache.dir

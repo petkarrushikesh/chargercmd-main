@@ -1,0 +1,2 @@
+/Users/eslmarketing/Downloads/chargercmd/android/app/.cxx/Debug/b692372m/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/eslmarketing/Downloads/chargercmd/android/app/.cxx/Debug/b692372m/armeabi-v7a/CMakeFiles/rebuild_cache.dir
